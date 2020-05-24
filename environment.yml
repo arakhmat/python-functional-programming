@@ -1,0 +1,11 @@
+name: python-functional-programming
+channels:
+  - conda-forge
+dependencies:
+  - attr=2.4.47
+  - black=19.10
+  - multipledispatch=0.6.0
+  - pip
+  - python=3.8
+  - pyrsistent=0.16.0
+  - toolz=0.10.0
