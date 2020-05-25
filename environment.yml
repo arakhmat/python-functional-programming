@@ -4,6 +4,7 @@ channels:
 dependencies:
   - attr=2.4.47
   - black=19.10
+  - graphviz=2.40.1
   - multipledispatch=0.6.0
   - pip
   - python=3.8
