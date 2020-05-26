@@ -18,5 +18,4 @@ FFI libraries:
   - [pyo3: Rust bindings for the Python interpreter](https://pyo3.rs/v0.10.1/)
 
 
-### attrs
-Run notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arakhmat/python-functional-programming/master?filepath=notebooks%2Fattr.ipynb)
+### attrs [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arakhmat/python-functional-programming/master?filepath=notebooks%2Fattr.ipynb)
