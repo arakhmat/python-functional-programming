@@ -14,8 +14,9 @@ The following 4 libraries are a must-know when writing functional code in Python
   - [toolz: functional programming in python](https://toolz.readthedocs.io/en/latest/)
 
 FFI libraries:
-  - [pybind11: Seamless operability between C++11 and Python](pybind11.readthedocs.io/)
+  - [pybind11: Seamless operability between C++11 and Python](https://pybind11.readthedocs.io/en/stable/)
   - [pyo3: Rust bindings for the Python interpreter](https://pyo3.rs/v0.10.1/)
 
 
-### attrs [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arakhmat/python-functional-programming/master?filepath=notebooks%2Fattr.ipynb)
+### attrs [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arakhmat/python-functional-programming/main?filepath=notebooks%2Fattr.ipynb)
+### pyrsistent [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arakhmat/python-functional-programming/main?filepath=notebooks%pyrsistent.ipynb)
