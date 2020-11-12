@@ -19,4 +19,4 @@ FFI libraries:
 
 
 ### attrs [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arakhmat/python-functional-programming/main?filepath=notebooks%2Fattr.ipynb)
-### pyrsistent [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arakhmat/python-functional-programming/main?filepath=notebooks%2pyrsistent.ipynb)
+### pyrsistent [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arakhmat/python-functional-programming/main?filepath=notebooks%2Fpyrsistent.ipynb)
